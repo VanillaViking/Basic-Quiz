@@ -2,16 +2,16 @@
 
 ## Running the app
 
-Clone this repo
+1. Clone this repo
 ```
 git clone https://github.com/VanillaViking/Basic-Quiz.git
 ```
 
-install pygame:
+2. Install pygame:
 * through pip: `pip install pygame`
 * through your system package manager: `sudo pacman -S python-pygame` (for arch linux)
 
-Run the app:
+3. Run the app:
 ```
 python main.py
 ```
